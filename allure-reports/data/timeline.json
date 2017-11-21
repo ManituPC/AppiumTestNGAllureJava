@@ -1,0 +1,72 @@
+{
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  },
+  "time" : {
+    "minDuration" : 23848,
+    "maxDuration" : 23848,
+    "sumDuration" : 23848,
+    "start" : 1510828597118,
+    "stop" : 1510828620966,
+    "duration" : 23848
+  },
+  "children" : [ {
+    "uid" : "5468069741616446",
+    "name" : "Aleksejs-MacBook-Air.local",
+    "time" : {
+      "minDuration" : 23848,
+      "maxDuration" : 23848,
+      "sumDuration" : 23848,
+      "start" : 1510828597118,
+      "stop" : 1510828620966,
+      "duration" : 23848
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "a8c190729193bc58",
+      "name" : "3054@Aleksejs-MacBook-Air.local.main(1)",
+      "time" : {
+        "minDuration" : 23848,
+        "maxDuration" : 23848,
+        "sumDuration" : 23848,
+        "start" : 1510828597118,
+        "stop" : 1510828620966,
+        "duration" : 23848
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "1d9c3135e54d8e06",
+        "name" : "createNewTextNote",
+        "time" : {
+          "start" : 1510828597118,
+          "stop" : 1510828620966,
+          "duration" : 23848
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}

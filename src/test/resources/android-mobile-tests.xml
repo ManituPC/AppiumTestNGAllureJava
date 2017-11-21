@@ -1,0 +1,10 @@
+<suite name="Test Colornote example">
+    <parameter name="osType" value="android"/>
+    <parameter name="appType" value="hybrid"/>
+    <parameter name="mobileDeviceName" value="07d66c2500ca0342"/>
+	<test name="Colornote test">
+		<classes>
+		    <class name="driver.CreateNewTextNoteTest"/>
+		</classes>	
+	</test>
+</suite>

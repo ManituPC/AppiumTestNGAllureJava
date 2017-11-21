@@ -1,0 +1,91 @@
+{
+  "uid" : "1d9c3135e54d8e06",
+  "name" : "createNewTextNote",
+  "fullName" : "driver.CreateNewTextNoteTest.createNewTextNote",
+  "historyId" : "c10534db8802bb7243e7f134608408f3",
+  "time" : {
+    "start" : 1510828597118,
+    "stop" : 1510828620966,
+    "duration" : 23848
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "description" : "On this test we will check function of add new note",
+  "descriptionHtml" : "<p>On this test we will check function of add new note</p>",
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1510828555383,
+      "stop" : 1510828586784,
+      "duration" : 31401
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1510828621018,
+      "stop" : 1510828624548,
+      "duration" : 3530
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "driver.CreateNewTextNoteTest"
+  }, {
+    "name" : "testClass",
+    "value" : "driver.CreateNewTextNoteTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createNewTextNote"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test Colornote example"
+  }, {
+    "name" : "suite",
+    "value" : "Colornote test"
+  }, {
+    "name" : "subSuite",
+    "value" : "driver.CreateNewTextNoteTest"
+  }, {
+    "name" : "host",
+    "value" : "Aleksejs-MacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "3054@Aleksejs-MacBook-Air.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Create new note"
+  } ],
+  "parameters" : [ {
+    "name" : "osType",
+    "value" : "android"
+  }, {
+    "name" : "mobileDeviceName",
+    "value" : "07d66c2500ca0342"
+  }, {
+    "name" : "appType",
+    "value" : "hybrid"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

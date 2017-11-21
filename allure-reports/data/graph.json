@@ -1,0 +1,11 @@
+[ {
+  "uid" : "1d9c3135e54d8e06",
+  "name" : "createNewTextNote",
+  "time" : {
+    "start" : 1510828597118,
+    "stop" : 1510828620966,
+    "duration" : 23848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
